@@ -1,0 +1,20 @@
+{
+  "name": "final-projectjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "giorgi shubitidze",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  
+  "dependencies": {
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.0"
+  }
+}
